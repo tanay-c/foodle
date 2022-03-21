@@ -1,0 +1,12 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1 {
+    border: 2px #eee solid;
+    color: olive;
+    text-align: center;
+    padding: 10px;
+}
